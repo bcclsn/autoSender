@@ -1,0 +1,4 @@
+{
+    "server" : "smtp-mail.outlook.com",
+    "port"   : 587
+}
